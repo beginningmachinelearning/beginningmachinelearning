@@ -44,3 +44,21 @@ Can we just scoop up large swaths of data and just have this magical machine lea
 just tell us which data is relevant and which is not? 
 
 Like I said, so many questions... 
+
+Next comes the concept of a model. 
+A model is related to the process that generates the data, 
+similar to the dataset we are given. 
+
+A model is said to learn from data 
+if its performance on a given task improves 
+after the data is taken into account. 
+
+The goal is to find good models 
+that generalize well to yet unseen data, 
+which we may care about in the future. 
+
+Learning can be understood as a way 
+to automatically find patterns and structure 
+in data by optimizing the parameters of the model. 
+
+
