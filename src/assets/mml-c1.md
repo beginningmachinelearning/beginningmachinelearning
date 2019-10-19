@@ -23,4 +23,9 @@ The next sentence clarifies what we should focus on: the word automatically.
 This is the key focus of machine learning. 
 We want to be able to generalize our work across data sets. 
 
+What is valuable information though? 
+Do we need to define this before we design our algorithm? 
+Before we collect data? 
+So many questions... 
+
 
