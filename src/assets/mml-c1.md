@@ -61,4 +61,11 @@ Learning can be understood as a way
 to automatically find patterns and structure 
 in data by optimizing the parameters of the model. 
 
+The next paragraph details the motivation for the book: 
 
+while softeare is readily available, 
+the mathematical foundations of machine learning 
+are important in order to understand fundamental principles 
+upon which more complicated machine learning systems are built. 
+
+We need to know the foundations in order to work efficiently with the framework. 
