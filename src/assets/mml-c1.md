@@ -13,9 +13,10 @@ Machine learning is about designing algorithms that automatically extract valuab
 [/quote]
 
 Let us break down this sentence. 
-
-As programmers, we write algorithms all the time. 
-You can think of an algorithm as a recipe or a set of instructions. 
+1. designing algorithms
+2. automatically extract 
+3. valuable information
+4. data
 
 The next sentence clarifies what we should focus on: the word automatically. 
 
