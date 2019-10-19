@@ -28,4 +28,19 @@ Do we need to define this before we design our algorithm?
 Before we collect data? 
 So many questions... 
 
+Lets move on. 
 
+The second paragraph talks about how data is at the core of machine learning. 
+Machine learning is inherently data driven. 
+The goal of machine learning is 
+to design general purpose methodologies to extract valuable patterns from data 
+ideally without much domain-specific expertise. 
+
+But this brings more questions in my mind: 
+
+How do we collect data? 
+Don't we need "domain-specific expertise" just to be able to collect data? 
+Can we just scoop up large swaths of data and just have this magical machine learning 
+just tell us which data is relevant and which is not? 
+
+Like I said, so many questions... 
