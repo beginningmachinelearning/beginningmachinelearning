@@ -122,8 +122,12 @@
               "devServerTarget": "beginningmachinelearning:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@zeit/ng-deploy:deploy"
         }
       }
-    }},
+    }
+  },
   "defaultProject": "beginningmachinelearning"
 }
