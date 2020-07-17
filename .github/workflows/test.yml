@@ -1,4 +1,4 @@
-name: Node CI
+name: Build Angular
 
 on: [push]
 
@@ -20,6 +20,6 @@ jobs:
     - name: Angular build
       run: |
         yarn install
-        yarn run ng build --aot=true
+        yarn run ng test --watch=false
       env:
         CI: true
