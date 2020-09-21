@@ -128,5 +128,8 @@
       }
     }
   },
-  "defaultProject": "beginningmachinelearning"
+  "defaultProject": "beginningmachinelearning",
+  "cli": {
+    "analytics": false
+  }
 }
