@@ -1,3 +1,19 @@
-Mon 21 Sep 2020 06:24:01 PM UTC
-please stand by...
-Mon 21 Sep 2020 06:24:02 PM UTC
+Mon 21 Sep 2020 06:28:09 PM UTC
+yarn install v1.22.4
+[1/4] Resolving packages...
+success Already up-to-date.
+Done in 3.85s.
+yarn run v1.22.4
+$ ng update
+Installing packages for tooling via yarn.
+Installed packages for tooling via yarn.
+Using package manager: 'yarn'
+Collecting installed dependencies...
+Found 33 dependencies.
+    We analyzed your package.json, there are some packages to update:
+    
+      Name                               Version                  Command to update
+     --------------------------------------------------------------------------------
+      @angular/cli                       10.1.0 -> 10.1.2         ng update @angular/cli
+      @angular/core                      10.1.0 -> 10.1.2         ng update @angular/core
+Done in 85.64s.
