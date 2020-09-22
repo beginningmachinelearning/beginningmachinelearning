@@ -1,0 +1,28 @@
+version: '1.0'
+stages:
+  - prepare
+  - test
+  - build
+steps:
+  main_clone:
+    title: Cloning main repository...
+    stage: prepare
+    type: git-clone
+    repo: 'beginningmachinelearning/beginningmachinelearning'
+    revision: master
+    git: github
+  MyUnitTests:
+    title: Unit test
+    stage: test
+    image: node:latest
+    commands:
+      - yarn install
+      - yarn test
+    environment:
+      - CI=true
+  MyAngularBuild:
+    title: Packaging application
+    stage: build
+    image: node:latest
+    commands:
+      - yarn build
